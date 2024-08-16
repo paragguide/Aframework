@@ -1,0 +1,9 @@
+testcases\LoginTest.class
+utilities\GenerateReport.class
+core\Hook.class
+externalxpath\AmazonXpath.class
+utilities\ScreenShot2.class
+testcases\ShopTest.class
+utilities\MakeConnectionPOI.class
+core\Page.class
+testcases\NewUser.class
