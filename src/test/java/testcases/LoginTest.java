@@ -18,7 +18,8 @@ public class LoginTest extends Hook
 	  utilities.GenerateReport.test =   utilities.GenerateReport.report.createTest("useridTest");	 
 	  signin.click();
 	     try {
-	    uid1.sendKeys("paragguide@yahoo.co.in");	 
+	    	 System.out.println("hii ");
+	    	 uid1.sendKeys("paragguide@yahoo.co.in");	 
 	     }
 	     catch(Exception e)
 	     {
